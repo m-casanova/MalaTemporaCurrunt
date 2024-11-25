@@ -1,4 +1,5 @@
 # Mala tempora currunt
+* Versione 1.115: aggiunta di alcuni caratteri
 * Versione 1.111: fix minori ad alcuni caratteri
 * Versione 1.108: fix classi per ss03 ss04
 * Versione 1.103: sistemazione accenti e aggiunta di alcuni caratteri
