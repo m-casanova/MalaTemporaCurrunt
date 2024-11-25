@@ -1,4 +1,5 @@
 # Mala tempora currunt
+* Versione 1.111: fix minori ad alcuni caratteri
 * Versione 1.108: fix classi per ss03 ss04
 * Versione 1.103: sistemazione accenti e aggiunta di alcuni caratteri
 * Versione 1.0: versione iniziale
@@ -9,6 +10,8 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 ![image](images/Malatemporacurrunt1.jpg)
 
 Il font _Mala tempora currunt_ è basato sul carattere _rotunda_, tipico di edizioni a stampa tra XV e XVI secolo. Il font è basato in particolare sul carattere _[Gótico Cervantes](https://fontsinuse.com/typefaces/233950/gotico-cervantes)_ (1928) della tipografia Gans, ma con alcune variazioni.
+
+![image](images/Malatemporacurrunt3.jpg)
 
 Sono presenti diverse caratteristiche stilistiche (ss01, ss02, ss03, ss04) per simulare particolari comportamenti.
 
